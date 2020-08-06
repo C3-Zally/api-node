@@ -1,5 +1,3 @@
-const error = require('../../../utils/error')
-
 const COLLECTION = 'countries'
 
 module.exports = function (injectedStore) {

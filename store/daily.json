@@ -1,0 +1,282 @@
+[
+  {
+    "confirmed": 18683573,
+    "recovered": 11902943,
+    "deaths": 703135,
+    "active": 6077495,
+    "critical": 65436,
+    "date": "2020-08-04"
+  },
+  {
+    "confirmed": 18437388,
+    "recovered": 11677698,
+    "deaths": 697083,
+    "active": 6062607,
+    "critical": 64732,
+    "date": "2020-08-03"
+  },
+  {
+    "confirmed": 18237471,
+    "recovered": 11473892,
+    "deaths": 692717,
+    "active": 6070862,
+    "critical": 65798,
+    "date": "2020-08-02"
+  },
+  {
+    "confirmed": 18008407,
+    "recovered": 11324112,
+    "deaths": 688022,
+    "active": 5996273,
+    "critical": 65698,
+    "date": "2020-08-01"
+  },
+  {
+    "confirmed": 17745673,
+    "recovered": 11151834,
+    "deaths": 682197,
+    "active": 5911642,
+    "critical": 65537,
+    "date": "2020-07-31"
+  },
+  {
+    "confirmed": 17463303,
+    "recovered": 10931675,
+    "deaths": 675967,
+    "active": 5855661,
+    "critical": 66380,
+    "date": "2020-07-30"
+  },
+  {
+    "confirmed": 17171005,
+    "recovered": 10682039,
+    "deaths": 669242,
+    "active": 5819724,
+    "critical": 66366,
+    "date": "2020-07-29"
+  },
+  {
+    "confirmed": 16883789,
+    "recovered": 10450932,
+    "deaths": 662481,
+    "active": 5770376,
+    "critical": 66504,
+    "date": "2020-07-28"
+  },
+  {
+    "confirmed": 16635927,
+    "recovered": 10226482,
+    "deaths": 656083,
+    "active": 5753362,
+    "critical": 66564,
+    "date": "2020-07-27"
+  },
+  {
+    "confirmed": 16403336,
+    "recovered": 10036890,
+    "deaths": 651664,
+    "active": 5714782,
+    "critical": 66247,
+    "date": "2020-07-26"
+  },
+  {
+    "confirmed": 16190310,
+    "recovered": 9908100,
+    "deaths": 647602,
+    "active": 5634608,
+    "critical": 66170,
+    "date": "2020-07-25"
+  },
+  {
+    "confirmed": 15929737,
+    "recovered": 9714499,
+    "deaths": 641837,
+    "active": 5573401,
+    "critical": 66183,
+    "date": "2020-07-24"
+  },
+  {
+    "confirmed": 15639706,
+    "recovered": 9528433,
+    "deaths": 635597,
+    "active": 5475676,
+    "critical": 66324,
+    "date": "2020-07-23"
+  },
+  {
+    "confirmed": 15363809,
+    "recovered": 9340912,
+    "deaths": 629288,
+    "active": 5393609,
+    "critical": 66171,
+    "date": "2020-07-22"
+  },
+  {
+    "confirmed": 15085083,
+    "recovered": 9105030,
+    "deaths": 618504,
+    "active": 5361549,
+    "critical": 63786,
+    "date": "2020-07-21"
+  },
+  {
+    "confirmed": 14845960,
+    "recovered": 8901510,
+    "deaths": 612816,
+    "active": 5331634,
+    "critical": 59807,
+    "date": "2020-07-20"
+  },
+  {
+    "confirmed": 14640336,
+    "recovered": 8729872,
+    "deaths": 608776,
+    "active": 5301688,
+    "critical": 59809,
+    "date": "2020-07-19"
+  },
+  {
+    "confirmed": 14417667,
+    "recovered": 8606240,
+    "deaths": 604420,
+    "active": 5207007,
+    "critical": 59907,
+    "date": "2020-07-18"
+  },
+  {
+    "confirmed": 14190643,
+    "recovered": 8455028,
+    "deaths": 599369,
+    "active": 5136246,
+    "critical": 60142,
+    "date": "2020-07-17"
+  },
+  {
+    "confirmed": 13949705,
+    "recovered": 8279167,
+    "deaths": 593764,
+    "active": 5076774,
+    "critical": 59934,
+    "date": "2020-07-16"
+  },
+  {
+    "confirmed": 13700034,
+    "recovered": 8037715,
+    "deaths": 587959,
+    "active": 5074360,
+    "critical": 59617,
+    "date": "2020-07-15"
+  },
+  {
+    "confirmed": 13464433,
+    "recovered": 7847866,
+    "deaths": 582116,
+    "active": 5034451,
+    "critical": 59552,
+    "date": "2020-07-14"
+  },
+  {
+    "confirmed": 13244210,
+    "recovered": 7697469,
+    "deaths": 576590,
+    "active": 4970151,
+    "critical": 58871,
+    "date": "2020-07-13"
+  },
+  {
+    "confirmed": 13047508,
+    "recovered": 7583428,
+    "deaths": 572768,
+    "active": 4891312,
+    "critical": 58925,
+    "date": "2020-07-12"
+  },
+  {
+    "confirmed": 12848376,
+    "recovered": 7478608,
+    "deaths": 568572,
+    "active": 4801196,
+    "critical": 58831,
+    "date": "2020-07-11"
+  },
+  {
+    "confirmed": 12630964,
+    "recovered": 7332909,
+    "deaths": 563508,
+    "active": 4734547,
+    "critical": 58896,
+    "date": "2020-07-10"
+  },
+  {
+    "confirmed": 12392784,
+    "recovered": 7185007,
+    "deaths": 558038,
+    "active": 4649739,
+    "critical": 58460,
+    "date": "2020-07-09"
+  },
+  {
+    "confirmed": 12168252,
+    "recovered": 7028695,
+    "deaths": 552580,
+    "active": 4586977,
+    "critical": 58325,
+    "date": "2020-07-08"
+  },
+  {
+    "confirmed": 11953786,
+    "recovered": 6850133,
+    "deaths": 546974,
+    "active": 4556679,
+    "critical": 58195,
+    "date": "2020-07-07"
+  },
+  {
+    "confirmed": 11744672,
+    "recovered": 6641715,
+    "deaths": 541408,
+    "active": 4561549,
+    "critical": 57978,
+    "date": "2020-07-06"
+  },
+  {
+    "confirmed": 11572501,
+    "recovered": 6536123,
+    "deaths": 537797,
+    "active": 4498581,
+    "critical": 58538,
+    "date": "2020-07-05"
+  },
+  {
+    "confirmed": 11393774,
+    "recovered": 6438774,
+    "deaths": 534130,
+    "active": 4420870,
+    "critical": 58530,
+    "date": "2020-07-04"
+  },
+  {
+    "confirmed": 11197533,
+    "recovered": 6297162,
+    "deaths": 529559,
+    "active": 4370812,
+    "critical": 58838,
+    "date": "2020-07-03"
+  },
+  {
+    "confirmed": 10982639,
+    "recovered": 6162663,
+    "deaths": 524313,
+    "active": 4295663,
+    "critical": 58134,
+    "date": "2020-07-02"
+  },
+  {
+    "confirmed": 10772455,
+    "recovered": 5962475,
+    "deaths": 519110,
+    "active": 4290870,
+    "critical": 57987,
+    "date": "2020-07-01"
+  }
+]

@@ -4,6 +4,7 @@
   "description": "Project Cohort3-team-zally",
   "main": "api/index.js",
   "dependencies": {
+    "date-fns": "^2.15.0",
     "express": "^4.17.1"
   },
   "devDependencies": {
