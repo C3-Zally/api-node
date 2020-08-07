@@ -12,11 +12,11 @@ app.use(express.urlencoded({ extended: true }))
 // ROUTES
 app.get('/', (req, res) => {
   res.status(200).send({
-    countries: `http://${config.api.host}:${config.api.port}/api/country`,
-    totals: `http://${config.api.host}:${config.api.port}/api/report`,
-    totalsByDay: `http://${config.api.host}:${config.api.port}/api/report/daily/?date=2020-08-04`,
-    latestAllCountries: `http://${config.api.host}:${config.api.port}/api/report/countries`,
-    latestCountriesByCode: `http://${config.api.host}:${config.api.port}/api/report/countries?code=CO`
+    countries: `http://${config.api.host}/api/country`,
+    totals: `http://${config.api.host}/api/report`,
+    totalsByDay: `http://${config.api.host}/api/report/daily/?date=2020-08-04`,
+    latestAllCountries: `http://${config.api.host}/api/report/countries`,
+    latestCountriesByCode: `http://${config.api.host}/api/report/countries?code=CO`
   })
 })
 app.use('/api/country', countries)
