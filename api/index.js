@@ -14,7 +14,7 @@ app.get('/', (req, res) => {
   res.status(200).send({
     countries: `${config.api.host}/api/country`,
     totals: `${config.api.host}/api/report`,
-    totalsByDay: `${config.api.host}/api/report/daily/?date=2020-08-04`,
+    totalsByDay: `${config.api.host}/api/report/daily?date=2020-08-04`,
     latestAllCountries: `${config.api.host}/api/report/countries`,
     latestCountriesByCode: `${config.api.host}/api/report/countries?code=CO`
   })
